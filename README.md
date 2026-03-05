@@ -4,8 +4,6 @@ A full-stack machine learning application that predicts whether a loan applicant
 
 Built with a Random Forest model, served via FastAPI, with a modern glassmorphism frontend interface.
 
-![Loan Prediction Banner](https://via.placeholder.com/800x400.png?text=Loan+Prediction+AI)
-
 ## Features
 
 - **Machine Learning**: 81% accurate Random Forest Classifier handling categorical and numerical data imputation.
