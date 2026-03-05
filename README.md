@@ -4,6 +4,8 @@ A full-stack machine learning application that predicts whether a loan applicant
 
 Built with a Random Forest model, served via FastAPI, with a modern glassmorphism frontend interface.
 
+LINK:- https://subscription-prediction-app.onrender.com/
+
 ## Features
 
 - **Machine Learning**: 81% accurate Random Forest Classifier handling categorical and numerical data imputation.
